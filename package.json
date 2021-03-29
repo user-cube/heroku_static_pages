@@ -1,0 +1,12 @@
+{
+    "name": "My Beautiful Project",
+    "author": "Rui Coelho",
+    "version": "0.0.1",
+    "description": "My beautiful static page project",
+    "scripts": {
+        "start": "serve"
+    },
+    "dependencies": {
+        "serve": "^11.3.2"
+    }
+}
